@@ -1,3 +1,9 @@
+---
+layout: page
+title: Support
+permalink: /support/
+---
+
 # Support
 
 Welcome to the Graphixpro Support page. We're here to help you with any issues or questions you may have about our app.

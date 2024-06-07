@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms and Conditions
+permalink: /terms/
+---
+
 # Terms and Conditions
 
 Welcome to Graphixpro!

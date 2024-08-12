@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy
 
 At Graphixpro, accessible from our app, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Graphixpro and how we use it.

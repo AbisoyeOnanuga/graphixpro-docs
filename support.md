@@ -12,7 +12,7 @@ Welcome to the Graphixpro Support page. We're here to help you with any issues o
 If you need assistance, you can reach out to our support team through the following methods:
 
 ### Email Support
-You can email us at support@graphixpro.com. Our support team will respond to your query within 24-48 hours.
+You can email us at [contact](#contact-us). We aim to respond to your query as soon as possible.
 
 ### Frequently Asked Questions (FAQ)
 Before contacting support, you may find the answer to your question in our FAQ section below.
@@ -29,7 +29,7 @@ Select the image you want to watermark, choose the watermark option, adjust the 
 If you encounter an error, try restarting the app. If the issue persists, contact our support team with details of the error.
 
 ### How can I provide feedback or suggestions?
-We welcome your feedback and suggestions. Please email us at feedback@graphixpro.com.
+We welcome your feedback and suggestions. Please email us at [contact](#contact-us).
 
 ## Contact Us
 If you have any other questions or need further assistance, please contact us:
